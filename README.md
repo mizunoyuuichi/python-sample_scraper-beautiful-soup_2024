@@ -1,0 +1,2 @@
+# python-sample_scraper-beautiful-soup_2024
+BeautifulSoupを使った静的ページのスクレイピングのサンプルです。
